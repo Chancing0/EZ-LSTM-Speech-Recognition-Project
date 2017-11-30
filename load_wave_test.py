@@ -1,5 +1,5 @@
 import tflearn
-import speech_data_test2 as speech_data
+import speech_data
 import tensorflow as tf
 import numpy as np
 

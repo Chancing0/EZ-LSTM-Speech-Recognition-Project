@@ -6,3 +6,5 @@ all code you could just change a little bit ,then you could train your own datas
 if you still want to talk to me , just cue me ,i would like to share my idea .
 i just dont have time to learn use GitHub , but i would like to learn if i can . 
 I am so Sorry ,My English was so poor.or i would like to talk more.Thanks for you view！
+My project was base on :
+https://github.com/llSourcell/tensorflow_speech_recognition_demo

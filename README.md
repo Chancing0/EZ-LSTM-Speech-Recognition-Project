@@ -1,5 +1,4 @@
-# Chancing
-LSTM Speech Reconization project  
+# LSTM Speech Reconization project  
 you can use you own audio set an train your own project  
 In general,your total dataset should be separate as 60%(traning ), 20%(validationset),20% (testing).  
 what i show you just the right works code  
